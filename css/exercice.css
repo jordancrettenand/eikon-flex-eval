@@ -4,7 +4,22 @@
   align-items: center;
   justify-content: space-around;
 }
+
 /* 2. exercice-2 */
+.exercice-2 .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.exercice-2 .element-red {
+  order: 1;
+} 
+
+.exercice-2 .element-blue {
+  order: -1;
+} 
 
 /* 3. exercice-3 */
 
