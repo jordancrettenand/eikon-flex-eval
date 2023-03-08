@@ -99,6 +99,11 @@
 } 
 
 /* 9. exercice-9 */
-
+.exercice-9 .container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
 /* 10. exercice-10 */
 
