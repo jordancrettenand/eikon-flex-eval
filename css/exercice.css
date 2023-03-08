@@ -103,7 +103,12 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  align-items: stretch;
+  align-items: baseline;
+}
+
+.exercice-9 .element {
+  box-sizing: border-box;
+  width: 50%;
 }
 
 /* 10. exercice-10 */
